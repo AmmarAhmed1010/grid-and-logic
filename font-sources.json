@@ -1,0 +1,20 @@
+[
+  {
+    "family": "Space Grotesk",
+    "source": "https://fonts.gstatic.com/s/spacegrotesk/v22/V8mDoQDjQSkFtoMM3T6r8E7mPbF4Cw.woff2",
+    "css": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400..700&display=swap",
+    "license": "SIL Open Font License",
+    "licenseReference": "https://github.com/google/fonts/tree/main/ofl/spacegrotesk",
+    "range": "400\u2013700",
+    "subset": "latin"
+  },
+  {
+    "family": "Inter",
+    "source": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2",
+    "css": "https://fonts.googleapis.com/css2?family=Inter:wght@400..700&display=swap",
+    "license": "SIL Open Font License",
+    "licenseReference": "https://github.com/google/fonts/tree/main/ofl/inter",
+    "range": "400\u2013700",
+    "subset": "latin"
+  }
+]

@@ -1,0 +1,206 @@
+{
+  "date": "2026-10-09T19:36:06.064Z",
+  "checks": [
+    {
+      "site": "grid-and-logic",
+      "test": "/ @ 1440: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/about @ 1440: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/services @ 1440: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/work @ 1440: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/contact @ 1440: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/services/3d-configurators @ 1440: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/services/web-and-ecommerce @ 1440: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/services/brand-and-design @ 1440: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/services/creative-development @ 1440: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/work/sofa-configurator @ 1440: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/work/pixel-nest @ 1440: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/work/clothing-store @ 1440: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/work/multi-brand-store @ 1440: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/ @ 768: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/about @ 768: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/services @ 768: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/work @ 768: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/contact @ 768: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/services/3d-configurators @ 768: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/services/web-and-ecommerce @ 768: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/services/brand-and-design @ 768: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/services/creative-development @ 768: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/work/sofa-configurator @ 768: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/work/pixel-nest @ 768: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/work/clothing-store @ 768: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/work/multi-brand-store @ 768: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/ @ 390: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/about @ 390: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/services @ 390: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/work @ 390: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/contact @ 390: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/services/3d-configurators @ 390: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/services/web-and-ecommerce @ 390: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/services/brand-and-design @ 390: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/services/creative-development @ 390: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/work/sofa-configurator @ 390: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/work/pixel-nest @ 390: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/work/clothing-store @ 390: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "/work/multi-brand-store @ 390: HTTP 200, one h1, no overflow, labeled controls",
+      "passed": true
+    },
+    {
+      "site": "grid-and-logic",
+      "test": "Unknown route returns 404",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

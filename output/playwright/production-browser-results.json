@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "/",
+    "/services/3d-configurators",
+    "/work/sofa-configurator",
+    "/contact"
+  ],
+  "productionHydration": "passed",
+  "images": "all rendered images loaded",
+  "layout": "no desktop overflow",
+  "errors": []
+}

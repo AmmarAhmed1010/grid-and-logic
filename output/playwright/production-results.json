@@ -1,0 +1,8 @@
+{
+  "site": "grid-and-logic",
+  "routes": 13,
+  "internalLinks": 202,
+  "localAssets": 26,
+  "productionHttp": "passed",
+  "unknownRoute404": "passed"
+}

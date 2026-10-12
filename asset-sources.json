@@ -1,0 +1,32 @@
+[
+  {
+    "file": "logo.svg",
+    "source": "https://gridandlogic.vercel.app/Grid%20%26%20Logic%20(LOGO).svg",
+    "bytes": 13122,
+    "rights": "Existing user brand asset"
+  },
+  {
+    "file": "sofa.png",
+    "source": "https://gridandlogic.vercel.app/images/sofa-configrator.png",
+    "bytes": 75565,
+    "rights": "Existing user brand asset"
+  },
+  {
+    "file": "pixelnest.png",
+    "source": "https://gridandlogic.vercel.app/images/pixelnest.png",
+    "bytes": 373258,
+    "rights": "Existing user brand asset"
+  },
+  {
+    "file": "clothing.png",
+    "source": "https://gridandlogic.vercel.app/images/clothing%20store.png",
+    "bytes": 101469,
+    "rights": "Existing user brand asset"
+  },
+  {
+    "file": "commerce.png",
+    "source": "https://gridandlogic.vercel.app/images/ecomerce%20website.png",
+    "bytes": 85702,
+    "rights": "Existing user brand asset"
+  }
+]

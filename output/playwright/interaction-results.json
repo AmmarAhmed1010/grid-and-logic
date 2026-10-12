@@ -1,0 +1,10 @@
+[
+  {
+    "site": "grid-and-logic",
+    "checks": "Mobile menu opens, Escape closes and returns focus, keyboard focus outline, reduced-motion content visible, homepage images load, no failed asset requests"
+  },
+  {
+    "site": "grid-and-logic",
+    "checks": "Invalid contact blocked; valid demo enquiry feedback; perspective installation rotates"
+  }
+]
